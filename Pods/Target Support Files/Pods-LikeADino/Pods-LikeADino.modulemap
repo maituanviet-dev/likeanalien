@@ -1,0 +1,6 @@
+framework module Pods_LikeADino {
+  umbrella header "Pods-LikeADino-umbrella.h"
+
+  export *
+  module * { export * }
+}
